@@ -1,0 +1,45 @@
+body{
+    --main_color: #54de62;
+    background: var(--main_color);
+    --road_color: #4a4a4a;
+    --pavement_color: #6b6b6b;
+}
+.road{
+    height: 50px;
+    position: absolute;
+    z-index: 1;
+    background: url(../img/road.png);
+    background-color: black;
+    
+}
+.t_cross{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    background: url(../img/T-crossing.png);
+    background-color: var(--main_color);
+    background-size: 100px;
+    background-repeat: no-repeat;
+}
+.x_cross{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    background: url(../img/X-crossing.png);
+    background-color: var(--main_color);
+}
+.main_circle{
+    width: 60px;
+    height: 60px;
+    position: absolute;
+    z-index: 2;
+    background: var(--road_color);
+    border-radius: 50%;
+}
+.main_circle_border{
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    background: var(--pavement_color);
+    border-radius: 50%;
+}
