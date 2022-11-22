@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<html>
+   <head>
+      <meta charset="UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1">   
+      <style>
+         body, html { border: 0; margin: 0; padding: 0}
+         #map { height: 100vh; width: 100vw; }
+      </style>
+      <link rel="stylesheet" href="{{ url_for('static', filename= 'css/menu_style.css') }}">
+      <link rel="stylesheet" href="{{ url_for('static', filename= 'css/style.css') }}">
+      <script src="https://unpkg.com/three/build/three.min.js"></script>
+      <script src="https://unpkg.com/@here/harp.gl/dist/harp.js"></script>
+      <title>Traffic Model</title>
+
+   </head>
+   <body>
+      <div class="menu_body" style="font-size: 0.8em;">
+         <canvas id="map"></canvas>
+
+         <ul class="menu_sim" style="top: 0%; left: 0%;">    
+            <li class="name_menu">      
+                Menu
+            </li>
+            <li class="button_sim" id="button_start" onclick="onStart_3d()"> Start</li>
+            <li class="button_sim" id="button_pause" style="display: block; visibility: hidden;" onclick="onPause_3d()">
+            </li>
+            <li class="button_sim" id="button_editor" style="display: block; visibility: hidden;" onclick="onEditor()"> </li>
+            <li class="button_sim" onclick="document.location='/'"> Back </li>
+
+         </ul>
+
+         <ul id="navigator" class="menu_sim" style="bottom: 0%; visibility: hidden;">
+            <li class="name_menu" onclick="showMenu(event)">      
+                Attribute navigator
+            </li>
+         </ul>
+
+         <div class="editor_menu" style="background-color: rgb(224, 196, 196); margin-left: 400px; margin-top: -600px; visibility: hidden;" id="menu_param">
+            <ul class="edit_menu">
+                <li class="edit_menu_li" id="car_button" onclick="showCars(event)"><a>Car</a></li>
+                <li class="edit_menu_li" id="lishts_button" onclick="showLights(event)"><a>Traffic lights</a></li>
+                <li class="edit_menu_li" id="roads_button" onclick="showRoads(event)"><a>Roads</a></li>
+                <li class="edit_menu_li" id="close_button" onclick="closeButton(event)"><a>X</a></li>
+            </ul>
+            <div style="background-color: white; visibility: hidden;" class="menu_settings" id="car">
+                <ul class="edit_menu">
+                    <li class="edit_menu_li" onclick="closeCars(event)"><a>Close</a></li>
+                </ul>
+                <table class="info">
+                    <form method="post" id="cars_form" action="/editior" enctype="multipart/form-data">
+                        <tr>
+                            <textarea name="data">{{ cars_['cars'] }}</textarea><br>
+                            <input type="submit" value="Save">
+                        </tr>
+                    </form>
+                </table>
+            </div>
+            <div style="background-color: white; visibility: hidden;" class="menu_settings" id="lights">
+                <ul class="edit_menu">
+                    <li class="edit_menu_li" onclick="closeLights(event)"><a>Close</a></li>
+                </ul>
+                <table class="info">
+                    <tr>
+                        <form method="post" id="cars_form" action="/editior" enctype="multipart/form-data"></form>
+                            <textarea name="data">{{ lights }}</textarea><br>
+                            <input type="submit" value="Save">
+                        </form>
+                    </tr>
+                </table>
+            </div>
+            <div style="background-color: white; visibility: hidden;" class="menu_settings" id="roads">
+                <ul class="edit_menu">
+                    <li class="edit_menu_li" onclick="closeRoads(event)"><a>Close</a></li>
+                </ul>
+                <table class="info">
+                    <tr>
+                        <textarea>{{ map_ }}</textarea>
+                    </tr>
+                </table>
+            </div>
+         </div>
+
+         <div id="speed_menu" class="speed_configurator" style="font-size: 0.8em; visibility: hidden;">
+            <ul class="menu_sim" style="position: relative; float: right; ">
+               <li class="name_menu" style="width: 30vw;">      
+                    Speed changer
+               </li>
+
+               <li>
+                  <input type="range" id="speed_changer" name="speed_changer" style="width: 25vw; "
+                  min="300" max="4000" step ="100" value="2000" onchange="Speed(this.value)" >
+               </li>
+
+               <li>
+                  <label id="speed_display" for="speed_changer"> Speed in ms: 2000 </label>
+               </li>
+
+            </ul>
+         </div>
+      </div>
+      
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+      <script src="js/main.js"></script>
+      <script src="{{ url_for('static', filename= 'js/old_js.js') }}"></script>
+   </body>
+</html>

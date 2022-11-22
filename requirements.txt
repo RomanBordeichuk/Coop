@@ -1,0 +1,9 @@
+Flask==1.1.2
+Flask_RESTful==0.3.8
+matplotlib==3.3.4
+networkx==2.5
+numba==0.52.0
+numpy==1.19.5
+osmnx==1.1.1
+pika==1.2.0
+Werkzeug==1.0.1

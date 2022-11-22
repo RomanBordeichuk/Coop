@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename= 'css/bootstrap.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename= 'css/main.css') }}">
+    <title>Menu</title>
+</head>
+<body>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6">
+                <div class="card">
+                    <form onsubmit="event.preventDefault()" class="box">
+                        <h1>Main menu</h1>
+                        <p class="text-muted">Choose, what to do</p> 
+                        <input onclick="document.location='/choose'" type="submit" name="" value="Start" href="/choose">
+                        <input onclick="document.location='/settings'" type="submit" name="" value="Settings" href="#">
+                        
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

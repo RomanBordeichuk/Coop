@@ -1,0 +1,195 @@
+
+@font-face {
+    font-family: "TitleFont";
+    src: url("fonts/FredokaOne-Regular.ttf");
+  }
+
+.title_text{
+    font-family: "TitleFont", Fallback, sans-serif;
+    
+    font-size: 5rem;
+    text-align: center;
+    letter-spacing: 2px;
+    -webkit-text-stroke: 3px #4a4a4a;
+    color: rgb(150, 150, 150);   
+
+    
+ }
+
+.menu_list{
+    
+    border-radius: 10px;
+    position: absolute;
+    font-family: "TitleFont", Fallback, sans-serif;
+    list-style-type:none;
+
+    text-align: center;
+    letter-spacing: 3px;
+    font-size: 3rem;
+    -webkit-text-stroke: 1px #4a4a4a;
+    color: rgb(150, 150, 150);
+    margin: 20px;
+    padding-right: 20px;
+    display: table;
+
+    top: 25%;
+    left: 35%;
+    background-color: rgba(17, 16, 16, 0.7);
+}
+
+.title_li{
+    padding-left:10px;
+    padding-right:10px;
+    background-color: rgb(201, 201, 201);
+    border-radius: 15px;
+    box-shadow: 0 9px #000;
+}
+
+.button_li:hover {background-color: #6b6b6b}
+
+.button_li:active {
+    background-color: #4a4a4a;
+    box-shadow: 0 5px #000;
+    transform: translateY(4px);
+}
+
+.button_li{
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #333333;
+    display: block;
+    user-select: none;
+    margin-bottom: 30px;
+    display: grid;
+    justify-items: center;
+    align-items: center;
+    text-align: center;
+    margin-left: 100px;
+    width: 200px;
+    height: 50px;
+    background-color: rgb(150, 150, 150);
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #000;
+
+}
+
+body{
+    background: url(../img/placeholderBackground.png) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.edit_menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    border-radius: 10px;
+}
+
+.edit_menu_li {
+    float: left;
+}
+
+.edit_menu_li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+input[type=submit] {
+    padding:5px 15px; 
+    background:#ccc; 
+    border:0 none;
+    cursor:pointer;
+    -webkit-border-radius: 5px;
+    border-radius: 5px; 
+}
+
+.edit_menu_li a:hover {
+    background-color: #111;
+}
+
+.menu_settings {
+    width: 100%;
+    height: 300px;
+    position: absolute;
+    border-radius: 10px;
+    overflow-x: scroll;
+    overflow-y: scroll;
+}
+
+.info {
+    width: 100%;
+	margin-bottom: 20px;
+	border: 1px solid #dddddd;
+	border-collapse: collapse;
+    height: 150px;
+}
+
+.editor_menu {
+    border-radius: 10px;
+    font-family: "TitleFont", Fallback, sans-serif;
+    list-style-type: none;
+    text-align: center;
+    letter-spacing: 3px;
+    font-size: 2em;
+    color: rgb(150, 150, 150);
+
+}
+
+.name_menu_info{
+    font-size: 30px;
+    display: flex;
+    flex-direction: column;
+    color: white;
+}
+.name_menu_info_roads{
+    font-size: 30px;
+    display: flex;
+    flex-direction: column;
+    color: white;
+}
+.namu_menu_info > span{
+    margin: 20px;
+}
+.table_info_span_car{
+    background: #333;
+    border-radius: 10px;
+    padding: 20px;
+    color: white;
+    position: relative;
+    margin: 5px;
+}
+.table_info_span_light{
+    background: #333;
+    border-radius: 10px;
+    padding: 20px;
+    color: white;
+    position: relative;
+    margin: 5px;
+}
+.table_info_span_road{
+    background: #333;
+    border-radius: 10px;
+    padding: 20px;
+    color: white;
+    position: relative;
+    margin: 5px;
+}
+span.ok{
+    background: white;
+    padding: 10px;
+    border-radius: 10px;
+    color: black;
+    margin-top: 20px;
+}

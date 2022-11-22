@@ -1,0 +1,1101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.8.5 (1343724 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="48.9226900" minlon="24.7017700" maxlat="48.9238000" maxlon="24.7034100"/>
+ <node id="1025592494" visible="true" version="10" changeset="48287901" timestamp="2017-04-30T17:50:49Z" user="Chieftl" uid="3225928" lat="48.9238651" lon="24.7017668"/>
+ <node id="1025592751" visible="true" version="8" changeset="31405914" timestamp="2015-05-23T19:50:25Z" user="1gorok" uid="1872841" lat="48.9243075" lon="24.7002993"/>
+ <node id="1025594531" visible="true" version="9" changeset="30883069" timestamp="2015-05-07T19:30:00Z" user="1gorok" uid="1872841" lat="48.9224505" lon="24.7062173"/>
+ <node id="1025598995" visible="true" version="9" changeset="17733023" timestamp="2013-09-08T13:31:38Z" user="Zcor" uid="704753" lat="48.9236401" lon="24.7024951"/>
+ <node id="1655904599" visible="true" version="3" changeset="20908081" timestamp="2014-03-04T11:43:50Z" user="marek kleciak" uid="338611" lat="48.9235628" lon="24.7028170"/>
+ <node id="1655914953" visible="true" version="3" changeset="31211933" timestamp="2015-05-16T20:45:22Z" user="1gorok" uid="1872841" lat="48.9246652" lon="24.6989417"/>
+ <node id="2701156594" visible="true" version="3" changeset="39476694" timestamp="2016-05-21T20:52:35Z" user="1gorok" uid="1872841" lat="48.9222011" lon="24.7044563"/>
+ <node id="2701156597" visible="true" version="2" changeset="30883069" timestamp="2015-05-07T19:30:01Z" user="1gorok" uid="1872841" lat="48.9228845" lon="24.7049920"/>
+ <node id="2701156599" visible="true" version="1" changeset="20908081" timestamp="2014-03-04T11:43:45Z" user="marek kleciak" uid="338611" lat="48.9229504" lon="24.7020672"/>
+ <node id="2701156602" visible="true" version="2" changeset="30883069" timestamp="2015-05-07T19:30:01Z" user="1gorok" uid="1872841" lat="48.9225353" lon="24.7034044"/>
+ <node id="2701156651" visible="true" version="2" changeset="30975925" timestamp="2015-05-10T21:23:58Z" user="_sev" uid="356014" lat="48.9236020" lon="24.7026545"/>
+ <node id="3499951252" visible="true" version="2" changeset="52480052" timestamp="2017-09-29T16:28:35Z" user="Chieftl" uid="3225928" lat="48.9225810" lon="24.7022068"/>
+ <node id="3499951259" visible="true" version="2" changeset="52480052" timestamp="2017-09-29T16:28:35Z" user="Chieftl" uid="3225928" lat="48.9226195" lon="24.7024879"/>
+ <node id="3499951273" visible="true" version="2" changeset="52480052" timestamp="2017-09-29T16:28:35Z" user="Chieftl" uid="3225928" lat="48.9227692" lon="24.7023420"/>
+ <node id="3499951274" visible="true" version="2" changeset="52480052" timestamp="2017-09-29T16:28:35Z" user="Chieftl" uid="3225928" lat="48.9227835" lon="24.7023690"/>
+ <node id="3499951275" visible="true" version="2" changeset="52480052" timestamp="2017-09-29T16:28:35Z" user="Chieftl" uid="3225928" lat="48.9227896" lon="24.7024285"/>
+ <node id="3499951276" visible="true" version="2" changeset="52480052" timestamp="2017-09-29T16:28:35Z" user="Chieftl" uid="3225928" lat="48.9227893" lon="24.7023911"/>
+ <node id="3499951281" visible="true" version="2" changeset="48287901" timestamp="2017-04-30T17:50:50Z" user="Chieftl" uid="3225928" lat="48.9229239" lon="24.7017418"/>
+ <node id="3499951282" visible="true" version="2" changeset="48287901" timestamp="2017-04-30T17:50:50Z" user="Chieftl" uid="3225928" lat="48.9230061" lon="24.7015041"/>
+ <node id="3499952809" visible="true" version="3" changeset="104080806" timestamp="2021-05-03T21:37:22Z" user="VARVAR8" uid="3850484" lat="48.9232690" lon="24.7020255"/>
+ <node id="3499952820" visible="true" version="2" changeset="48287901" timestamp="2017-04-30T17:50:50Z" user="Chieftl" uid="3225928" lat="48.9234146" lon="24.7016451"/>
+ <node id="3509169040" visible="true" version="2" changeset="104080806" timestamp="2021-05-03T21:37:22Z" user="VARVAR8" uid="3850484" lat="48.9234936" lon="24.7035599"/>
+ <node id="3509169045" visible="true" version="4" changeset="104080806" timestamp="2021-05-03T21:37:22Z" user="VARVAR8" uid="3850484" lat="48.9236506" lon="24.7029595"/>
+ <node id="3509169048" visible="true" version="2" changeset="104080806" timestamp="2021-05-03T21:37:22Z" user="VARVAR8" uid="3850484" lat="48.9236153" lon="24.7036336"/>
+ <node id="3509169050" visible="true" version="4" changeset="104080806" timestamp="2021-05-03T21:37:22Z" user="VARVAR8" uid="3850484" lat="48.9237723" lon="24.7030332"/>
+ <node id="3518794578" visible="true" version="2" changeset="31215382" timestamp="2015-05-17T00:38:34Z" user="1gorok" uid="1872841" lat="48.9239027" lon="24.7016451"/>
+ <node id="3520372447" visible="true" version="2" changeset="88811061" timestamp="2020-08-01T09:41:34Z" user="Kyle-L" uid="11585092" lat="48.9228995" lon="24.7028844"/>
+ <node id="3520372448" visible="true" version="1" changeset="31185615" timestamp="2015-05-15T19:38:15Z" user="_sev" uid="356014" lat="48.9228511" lon="24.7033088"/>
+ <node id="3520372453" visible="true" version="1" changeset="31185615" timestamp="2015-05-15T19:38:15Z" user="_sev" uid="356014" lat="48.9229434" lon="24.7030370"/>
+ <node id="3520372454" visible="true" version="1" changeset="31185615" timestamp="2015-05-15T19:38:15Z" user="_sev" uid="356014" lat="48.9229581" lon="24.7033930"/>
+ <node id="3520372455" visible="true" version="2" changeset="88811061" timestamp="2020-08-01T09:41:34Z" user="Kyle-L" uid="11585092" lat="48.9230422" lon="24.7029835"/>
+ <node id="3520372456" visible="true" version="2" changeset="88811061" timestamp="2020-08-01T09:41:34Z" user="Kyle-L" uid="11585092" lat="48.9230453" lon="24.7024437"/>
+ <node id="3520372457" visible="true" version="1" changeset="31185615" timestamp="2015-05-15T19:38:15Z" user="_sev" uid="356014" lat="48.9230267" lon="24.7034469"/>
+ <node id="3520372460" visible="true" version="2" changeset="88811061" timestamp="2020-08-01T09:41:34Z" user="Kyle-L" uid="11585092" lat="48.9231290" lon="24.7026909"/>
+ <node id="3520372461" visible="true" version="1" changeset="31185615" timestamp="2015-05-15T19:38:15Z" user="_sev" uid="356014" lat="48.9230504" lon="24.7031212"/>
+ <node id="3520372462" visible="true" version="1" changeset="31185615" timestamp="2015-05-15T19:38:15Z" user="_sev" uid="356014" lat="48.9230789" lon="24.7036821"/>
+ <node id="3520372463" visible="true" version="1" changeset="31185615" timestamp="2015-05-15T19:38:15Z" user="_sev" uid="356014" lat="48.9231190" lon="24.7031751"/>
+ <node id="3520372465" visible="true" version="1" changeset="31185615" timestamp="2015-05-15T19:38:15Z" user="_sev" uid="356014" lat="48.9231892" lon="24.7033400"/>
+ <node id="3520372466" visible="true" version="1" changeset="31185615" timestamp="2015-05-15T19:38:15Z" user="_sev" uid="356014" lat="48.9232006" lon="24.7037730"/>
+ <node id="3520372467" visible="true" version="1" changeset="31185615" timestamp="2015-05-15T19:38:15Z" user="_sev" uid="356014" lat="48.9233109" lon="24.7034310"/>
+ <node id="3520372468" visible="true" version="3" changeset="88811061" timestamp="2020-08-01T09:41:34Z" user="Kyle-L" uid="11585092" lat="48.9233672" lon="24.7032682"/>
+ <node id="3522532992" visible="true" version="1" changeset="31211933" timestamp="2015-05-16T20:44:58Z" user="1gorok" uid="1872841" lat="48.9222990" lon="24.7016631"/>
+ <node id="3522533599" visible="true" version="2" changeset="48287901" timestamp="2017-04-30T17:50:50Z" user="Chieftl" uid="3225928" lat="48.9223452" lon="24.7014849"/>
+ <node id="3522533677" visible="true" version="2" changeset="48287901" timestamp="2017-04-30T17:50:50Z" user="Chieftl" uid="3225928" lat="48.9228054" lon="24.7019772"/>
+ <node id="3522533688" visible="true" version="2" changeset="48287901" timestamp="2017-04-30T17:50:50Z" user="Chieftl" uid="3225928" lat="48.9228438" lon="24.7018221"/>
+ <node id="3522533972" visible="true" version="2" changeset="31405914" timestamp="2015-05-23T19:50:28Z" user="1gorok" uid="1872841" lat="48.9243053" lon="24.7003049"/>
+ <node id="3539732764" visible="true" version="1" changeset="31405914" timestamp="2015-05-23T19:50:16Z" user="1gorok" uid="1872841" lat="48.9216132" lon="24.7048347"/>
+ <node id="3539732765" visible="true" version="1" changeset="31405914" timestamp="2015-05-23T19:50:16Z" user="1gorok" uid="1872841" lat="48.9216176" lon="24.7049092"/>
+ <node id="3539732766" visible="true" version="1" changeset="31405914" timestamp="2015-05-23T19:50:16Z" user="1gorok" uid="1872841" lat="48.9216332" lon="24.7049736"/>
+ <node id="3539732767" visible="true" version="1" changeset="31405914" timestamp="2015-05-23T19:50:16Z" user="1gorok" uid="1872841" lat="48.9216546" lon="24.7050366"/>
+ <node id="3539732768" visible="true" version="1" changeset="31405914" timestamp="2015-05-23T19:50:16Z" user="1gorok" uid="1872841" lat="48.9219827" lon="24.7019110"/>
+ <node id="3539732769" visible="true" version="1" changeset="31405914" timestamp="2015-05-23T19:50:16Z" user="1gorok" uid="1872841" lat="48.9220161" lon="24.7018331"/>
+ <node id="3539732770" visible="true" version="1" changeset="31405914" timestamp="2015-05-23T19:50:16Z" user="1gorok" uid="1872841" lat="48.9220584" lon="24.7017856"/>
+ <node id="3539732771" visible="true" version="1" changeset="31405914" timestamp="2015-05-23T19:50:16Z" user="1gorok" uid="1872841" lat="48.9221252" lon="24.7017416"/>
+ <node id="3539732772" visible="true" version="1" changeset="31405914" timestamp="2015-05-23T19:50:16Z" user="1gorok" uid="1872841" lat="48.9221646" lon="24.7017355"/>
+ <node id="3539732773" visible="true" version="1" changeset="31405914" timestamp="2015-05-23T19:50:16Z" user="1gorok" uid="1872841" lat="48.9221976" lon="24.7017450"/>
+ <node id="3539732774" visible="true" version="1" changeset="31405914" timestamp="2015-05-23T19:50:16Z" user="1gorok" uid="1872841" lat="48.9223251" lon="24.7060930"/>
+ <node id="3539732775" visible="true" version="1" changeset="31405914" timestamp="2015-05-23T19:50:16Z" user="1gorok" uid="1872841" lat="48.9223613" lon="24.7061026"/>
+ <node id="3539732776" visible="true" version="1" changeset="31405914" timestamp="2015-05-23T19:50:16Z" user="1gorok" uid="1872841" lat="48.9224007" lon="24.7060834"/>
+ <node id="3539732777" visible="true" version="1" changeset="31405914" timestamp="2015-05-23T19:50:16Z" user="1gorok" uid="1872841" lat="48.9224385" lon="24.7060595"/>
+ <node id="3539732778" visible="true" version="1" changeset="31405914" timestamp="2015-05-23T19:50:16Z" user="1gorok" uid="1872841" lat="48.9224951" lon="24.7018888"/>
+ <node id="3539732779" visible="true" version="1" changeset="31405914" timestamp="2015-05-23T19:50:16Z" user="1gorok" uid="1872841" lat="48.9225801" lon="24.7057720"/>
+ <node id="3539732787" visible="true" version="1" changeset="31405914" timestamp="2015-05-23T19:50:16Z" user="1gorok" uid="1872841" lat="48.9227942" lon="24.7028782"/>
+ <node id="3539735496" visible="true" version="1" changeset="31405914" timestamp="2015-05-23T19:50:17Z" user="1gorok" uid="1872841" lat="48.9230067" lon="24.7022170"/>
+ <node id="3539735497" visible="true" version="1" changeset="31405914" timestamp="2015-05-23T19:50:17Z" user="1gorok" uid="1872841" lat="48.9230366" lon="24.7030387"/>
+ <node id="3539735498" visible="true" version="1" changeset="31405914" timestamp="2015-05-23T19:50:17Z" user="1gorok" uid="1872841" lat="48.9233451" lon="24.7034148"/>
+ <node id="3852504703" visible="true" version="2" changeset="52480052" timestamp="2017-09-29T16:28:36Z" user="Chieftl" uid="3225928" lat="48.9225168" lon="24.7024141"/>
+ <node id="3852504704" visible="true" version="2" changeset="52480052" timestamp="2017-09-29T16:28:36Z" user="Chieftl" uid="3225928" lat="48.9225597" lon="24.7026806"/>
+ <node id="3852504705" visible="true" version="2" changeset="52480052" timestamp="2017-09-29T16:28:36Z" user="Chieftl" uid="3225928" lat="48.9226838" lon="24.7027697"/>
+ <node id="3852747928" visible="true" version="1" changeset="35517490" timestamp="2015-11-22T21:00:17Z" user="pirelly" uid="418078" lat="48.9229816" lon="24.7020866"/>
+ <node id="3852747930" visible="true" version="2" changeset="52480052" timestamp="2017-09-29T16:28:37Z" user="Chieftl" uid="3225928" lat="48.9225681" lon="24.7018300"/>
+ <node id="3852747947" visible="true" version="2" changeset="52480052" timestamp="2017-09-29T16:28:37Z" user="Chieftl" uid="3225928" lat="48.9223761" lon="24.7038987"/>
+ <node id="3852747948" visible="true" version="2" changeset="52480052" timestamp="2017-09-29T16:28:37Z" user="Chieftl" uid="3225928" lat="48.9219208" lon="24.7029367"/>
+ <node id="3852747949" visible="true" version="1" changeset="35517490" timestamp="2015-11-22T21:00:18Z" user="pirelly" uid="418078" lat="48.9220656" lon="24.7019506"/>
+ <node id="3852747950" visible="true" version="1" changeset="35517490" timestamp="2015-11-22T21:00:18Z" user="pirelly" uid="418078" lat="48.9220990" lon="24.7018916"/>
+ <node id="3852747951" visible="true" version="1" changeset="35517490" timestamp="2015-11-22T21:00:18Z" user="pirelly" uid="418078" lat="48.9221413" lon="24.7018782"/>
+ <node id="3852747952" visible="true" version="2" changeset="52480052" timestamp="2017-09-29T16:28:37Z" user="Chieftl" uid="3225928" lat="48.9224959" lon="24.7020627"/>
+ <node id="3852747953" visible="true" version="1" changeset="35517490" timestamp="2015-11-22T21:00:18Z" user="pirelly" uid="418078" lat="48.9228481" lon="24.7023342"/>
+ <node id="3852747954" visible="true" version="1" changeset="35517490" timestamp="2015-11-22T21:00:18Z" user="pirelly" uid="418078" lat="48.9225590" lon="24.7032059"/>
+ <node id="3852747955" visible="true" version="1" changeset="35517490" timestamp="2015-11-22T21:00:18Z" user="pirelly" uid="418078" lat="48.9219465" lon="24.7027865"/>
+ <node id="3978468250" visible="true" version="2" changeset="88811061" timestamp="2020-08-01T09:41:34Z" user="Kyle-L" uid="11585092" lat="48.9229291" lon="24.7022769"/>
+ <node id="3978468251" visible="true" version="2" changeset="88811061" timestamp="2020-08-01T09:41:34Z" user="Kyle-L" uid="11585092" lat="48.9235687" lon="24.7025784"/>
+ <node id="3978468252" visible="true" version="4" changeset="107154715" timestamp="2021-06-29T14:42:45Z" user="pamand" uid="7772832" lat="48.9235993" lon="24.7024703">
+  <tag k="crossing" v="uncontrolled"/>
+  <tag k="crossing:island" v="no"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="3978468253" visible="true" version="2" changeset="88811061" timestamp="2020-08-01T09:41:34Z" user="Kyle-L" uid="11585092" lat="48.9236319" lon="24.7023629"/>
+ <node id="3978473757" visible="true" version="3" changeset="48287901" timestamp="2017-04-30T17:50:50Z" user="Chieftl" uid="3225928" lat="48.9224295" lon="24.7012622"/>
+ <node id="3978473759" visible="true" version="2" changeset="48287901" timestamp="2017-04-30T17:50:50Z" user="Chieftl" uid="3225928" lat="48.9220209" lon="24.7011737"/>
+ <node id="3978473760" visible="true" version="1" changeset="36904564" timestamp="2016-01-30T19:42:09Z" user="pirelly" uid="418078" lat="48.9216493" lon="24.7007430"/>
+ <node id="3978473761" visible="true" version="1" changeset="36904564" timestamp="2016-01-30T19:42:09Z" user="pirelly" uid="418078" lat="48.9214778" lon="24.7006417"/>
+ <node id="3978473762" visible="true" version="1" changeset="36904564" timestamp="2016-01-30T19:42:09Z" user="pirelly" uid="418078" lat="48.9214428" lon="24.7006097"/>
+ <node id="3978473763" visible="true" version="1" changeset="36904564" timestamp="2016-01-30T19:42:09Z" user="pirelly" uid="418078" lat="48.9214264" lon="24.7005349"/>
+ <node id="3978473764" visible="true" version="1" changeset="36904564" timestamp="2016-01-30T19:42:09Z" user="pirelly" uid="418078" lat="48.9214428" lon="24.7004459"/>
+ <node id="3978473765" visible="true" version="1" changeset="36904564" timestamp="2016-01-30T19:42:09Z" user="pirelly" uid="418078" lat="48.9215831" lon="24.7001434"/>
+ <node id="3978473766" visible="true" version="1" changeset="36904564" timestamp="2016-01-30T19:42:09Z" user="pirelly" uid="418078" lat="48.9216094" lon="24.7007195"/>
+ <node id="3978473768" visible="true" version="1" changeset="36904564" timestamp="2016-01-30T19:42:09Z" user="pirelly" uid="418078" lat="48.9215026" lon="24.7006563"/>
+ <node id="4199267873" visible="true" version="1" changeset="39476694" timestamp="2016-05-21T20:51:50Z" user="1gorok" uid="1872841" lat="48.9224463" lon="24.7036808"/>
+ <node id="4297395091" visible="true" version="2" changeset="52671861" timestamp="2017-10-06T05:32:45Z" user="~Jhellico" uid="904010" lat="48.9227052" lon="24.7023043">
+  <tag k="amenity" v="cafe"/>
+  <tag k="name" v="Шпіндель"/>
+  <tag k="name:ru" v="Шпиндель"/>
+ </node>
+ <node id="4827456607" visible="true" version="1" changeset="48287901" timestamp="2017-04-30T17:50:47Z" user="Chieftl" uid="3225928" lat="48.9224117" lon="24.7012585"/>
+ <node id="4827456613" visible="true" version="1" changeset="48287901" timestamp="2017-04-30T17:50:47Z" user="Chieftl" uid="3225928" lat="48.9229834" lon="24.7014851"/>
+ <node id="4827456614" visible="true" version="1" changeset="48287901" timestamp="2017-04-30T17:50:47Z" user="Chieftl" uid="3225928" lat="48.9230510" lon="24.7012993"/>
+ <node id="4827456615" visible="true" version="1" changeset="48287901" timestamp="2017-04-30T17:50:47Z" user="Chieftl" uid="3225928" lat="48.9229684" lon="24.7015262"/>
+ <node id="4827456616" visible="true" version="1" changeset="48287901" timestamp="2017-04-30T17:50:47Z" user="Chieftl" uid="3225928" lat="48.9231999" lon="24.7021146"/>
+ <node id="4827456617" visible="true" version="1" changeset="48287901" timestamp="2017-04-30T17:50:47Z" user="Chieftl" uid="3225928" lat="48.9223754" lon="24.7014478"/>
+ <node id="4827456618" visible="true" version="1" changeset="48287901" timestamp="2017-04-30T17:50:47Z" user="Chieftl" uid="3225928" lat="48.9232339" lon="24.7020996"/>
+ <node id="4827456619" visible="true" version="1" changeset="48287901" timestamp="2017-04-30T17:50:47Z" user="Chieftl" uid="3225928" lat="48.9228565" lon="24.7017748"/>
+ <node id="4827456620" visible="true" version="1" changeset="48287901" timestamp="2017-04-30T17:50:47Z" user="Chieftl" uid="3225928" lat="48.9230942" lon="24.7018876"/>
+ <node id="4827456921" visible="true" version="1" changeset="48287901" timestamp="2017-04-30T17:50:47Z" user="Chieftl" uid="3225928" lat="48.9231725" lon="24.7016501"/>
+ <node id="4827456922" visible="true" version="2" changeset="104080806" timestamp="2021-05-03T21:37:22Z" user="VARVAR8" uid="3850484" lat="48.9233432" lon="24.7018254"/>
+ <node id="4827456926" visible="true" version="1" changeset="48287901" timestamp="2017-04-30T17:50:47Z" user="Chieftl" uid="3225928" lat="48.9232454" lon="24.7019467">
+  <tag k="name" v="Євротехніка"/>
+  <tag k="second_hand" v="yes"/>
+  <tag k="shop" v="electronics"/>
+  <tag k="wheelchair" v="no"/>
+ </node>
+ <node id="4827456927" visible="true" version="3" changeset="56046795" timestamp="2018-02-04T07:13:01Z" user="DaRo22" uid="7570182" lat="48.9231009" lon="24.7018166">
+  <tag k="amenity" v="pub"/>
+  <tag k="microbrewery" v="yes"/>
+  <tag k="name" v="Bartik beer"/>
+  <tag k="name:uk" v="Пивоварня Бартік"/>
+  <tag k="wheelchair" v="no"/>
+ </node>
+ <node id="4827456941" visible="true" version="1" changeset="48287901" timestamp="2017-04-30T17:50:48Z" user="Chieftl" uid="3225928" lat="48.9232320" lon="24.7014606"/>
+ <node id="4827456948" visible="true" version="1" changeset="48287901" timestamp="2017-04-30T17:50:48Z" user="Chieftl" uid="3225928" lat="48.9230434" lon="24.7012926"/>
+ <node id="4827456949" visible="true" version="1" changeset="48287901" timestamp="2017-04-30T17:50:48Z" user="Chieftl" uid="3225928" lat="48.9229757" lon="24.7014786"/>
+ <node id="4888217356" visible="true" version="1" changeset="49142543" timestamp="2017-05-31T17:44:27Z" user="Chieftl" uid="3225928" lat="48.9238805" lon="24.7017171">
+  <tag k="crossing" v="uncontrolled"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="4888217617" visible="true" version="2" changeset="57701188" timestamp="2018-03-31T23:29:46Z" user="Chieftl" uid="3225928" lat="48.9225031" lon="24.7060689">
+  <tag k="crossing" v="uncontrolled"/>
+  <tag k="highway" v="crossing"/>
+  <tag k="kerb" v="yes"/>
+  <tag k="tactile_paving" v="no"/>
+ </node>
+ <node id="5137781427" visible="true" version="1" changeset="52480052" timestamp="2017-09-29T16:28:31Z" user="Chieftl" uid="3225928" lat="48.9225408" lon="24.7019181"/>
+ <node id="5137781439" visible="true" version="1" changeset="52480052" timestamp="2017-09-29T16:28:31Z" user="Chieftl" uid="3225928" lat="48.9221960" lon="24.7029574"/>
+ <node id="5137781449" visible="true" version="1" changeset="52480052" timestamp="2017-09-29T16:28:31Z" user="Chieftl" uid="3225928" lat="48.9225726" lon="24.7022339"/>
+ <node id="5138490815" visible="true" version="3" changeset="107154741" timestamp="2021-06-29T14:42:46Z" user="pamand" uid="7772832" lat="48.9230183" lon="24.7019823">
+  <tag k="amenity" v="bicycle_parking"/>
+  <tag k="bicycle_parking" v="wall_loops"/>
+  <tag k="capacity" v="8"/>
+  <tag k="covered" v="no"/>
+  <tag k="flickr" v="https://www.flickr.com/photos/151135260@N07/36727513953"/>
+  <tag k="image" v="https://farm5.staticflickr.com/4470/36727513953_132c872dde_o.jpg"/>
+  <tag k="operator" v="Bartik beer"/>
+ </node>
+ <node id="5306575622" visible="true" version="1" changeset="54958494" timestamp="2017-12-27T15:14:04Z" user="happyjke" uid="6137375" lat="48.9227399" lon="24.7023335">
+  <tag k="name" v="Ситий тато"/>
+  <tag k="shop" v="supermarket"/>
+ </node>
+ <node id="5531996367" visible="true" version="2" changeset="112309935" timestamp="2021-10-09T17:36:10Z" user="Shyshka" uid="13785347" lat="48.9227064" lon="24.7055060"/>
+ <node id="5531996369" visible="true" version="1" changeset="57847514" timestamp="2018-04-05T20:53:58Z" user="Aleksander Kuticki" uid="6120785" lat="48.9228478" lon="24.7050955"/>
+ <node id="5531996370" visible="true" version="1" changeset="57847514" timestamp="2018-04-05T20:53:58Z" user="Aleksander Kuticki" uid="6120785" lat="48.9230400" lon="24.7044932"/>
+ <node id="5941367874" visible="true" version="1" changeset="63075702" timestamp="2018-09-30T20:50:32Z" user="Chieftl" uid="3225928" lat="48.9241143" lon="24.7009407"/>
+ <node id="7023847749" visible="true" version="4" changeset="86012871" timestamp="2020-05-31T15:43:24Z" user="Yurko Hudyma" uid="8679676" lat="48.9228288" lon="24.7021472">
+  <tag k="bus" v="yes"/>
+  <tag k="highway" v="bus_stop"/>
+  <tag k="name" v="Південний бульвар"/>
+  <tag k="name:en" v="Pivdennyi Boulevard"/>
+  <tag k="public_transport" v="platform"/>
+ </node>
+ <node id="7464978020" visible="true" version="1" changeset="84365480" timestamp="2020-04-29T21:58:14Z" user="UkrainianZombie" uid="2280853" lat="48.9236636" lon="24.7024190"/>
+ <node id="7465031880" visible="true" version="2" changeset="88811061" timestamp="2020-08-01T09:41:34Z" user="Kyle-L" uid="11585092" lat="48.9236233" lon="24.7023914"/>
+ <node id="7518652502" visible="true" version="1" changeset="85209736" timestamp="2020-05-14T15:31:10Z" user="GTA KaskaD" uid="5673032" lat="48.9242278" lon="24.7028785"/>
+ <node id="7563076225" visible="true" version="2" changeset="104080806" timestamp="2021-05-03T21:37:22Z" user="VARVAR8" uid="3850484" lat="48.9236656" lon="24.7021024"/>
+ <node id="7563076226" visible="true" version="1" changeset="85838270" timestamp="2020-05-27T14:15:53Z" user="GTA KaskaD" uid="5673032" lat="48.9237954" lon="24.7017661"/>
+ <node id="7563076227" visible="true" version="1" changeset="85838270" timestamp="2020-05-27T14:15:53Z" user="GTA KaskaD" uid="5673032" lat="48.9236473" lon="24.7016641"/>
+ <node id="7563076228" visible="true" version="1" changeset="85838270" timestamp="2020-05-27T14:15:53Z" user="GTA KaskaD" uid="5673032" lat="48.9235909" lon="24.7018116"/>
+ <node id="7563076229" visible="true" version="2" changeset="104080806" timestamp="2021-05-03T21:37:22Z" user="VARVAR8" uid="3850484" lat="48.9235914" lon="24.7023025"/>
+ <node id="7563076230" visible="true" version="1" changeset="85838270" timestamp="2020-05-27T14:15:53Z" user="GTA KaskaD" uid="5673032" lat="48.9237169" lon="24.7026976"/>
+ <node id="7563076231" visible="true" version="1" changeset="85838270" timestamp="2020-05-27T14:15:53Z" user="GTA KaskaD" uid="5673032" lat="48.9240886" lon="24.7029232"/>
+ <node id="7563076232" visible="true" version="1" changeset="85838270" timestamp="2020-05-27T14:15:53Z" user="GTA KaskaD" uid="5673032" lat="48.9240204" lon="24.7031837"/>
+ <node id="7775273586" visible="true" version="1" changeset="88811061" timestamp="2020-08-01T09:41:34Z" user="Kyle-L" uid="11585092" lat="48.9234799" lon="24.7028742"/>
+ <node id="7775273587" visible="true" version="1" changeset="88811061" timestamp="2020-08-01T09:41:34Z" user="Kyle-L" uid="11585092" lat="48.9234925" lon="24.7028188"/>
+ <node id="7775273588" visible="true" version="1" changeset="88811061" timestamp="2020-08-01T09:41:34Z" user="Kyle-L" uid="11585092" lat="48.9233432" lon="24.7028312"/>
+ <node id="7775273589" visible="true" version="1" changeset="88811061" timestamp="2020-08-01T09:41:34Z" user="Kyle-L" uid="11585092" lat="48.9232405" lon="24.7031855"/>
+ <node id="7775273590" visible="true" version="1" changeset="88811061" timestamp="2020-08-01T09:41:34Z" user="Kyle-L" uid="11585092" lat="48.9231846" lon="24.7024661"/>
+ <node id="7775273591" visible="true" version="1" changeset="88811061" timestamp="2020-08-01T09:41:34Z" user="Kyle-L" uid="11585092" lat="48.9234909" lon="24.7027483"/>
+ <node id="7775273592" visible="true" version="1" changeset="88811061" timestamp="2020-08-01T09:41:34Z" user="Kyle-L" uid="11585092" lat="48.9234789" lon="24.7027004"/>
+ <node id="7775273593" visible="true" version="1" changeset="88811061" timestamp="2020-08-01T09:41:34Z" user="Kyle-L" uid="11585092" lat="48.9234636" lon="24.7026648"/>
+ <node id="7775273594" visible="true" version="1" changeset="88811061" timestamp="2020-08-01T09:41:34Z" user="Kyle-L" uid="11585092" lat="48.9234440" lon="24.7026362"/>
+ <node id="7775273595" visible="true" version="1" changeset="88811061" timestamp="2020-08-01T09:41:34Z" user="Kyle-L" uid="11585092" lat="48.9234179" lon="24.7026134"/>
+ <node id="7775273596" visible="true" version="1" changeset="88811061" timestamp="2020-08-01T09:41:34Z" user="Kyle-L" uid="11585092" lat="48.9232499" lon="24.7023609"/>
+ <node id="7775273597" visible="true" version="1" changeset="88811061" timestamp="2020-08-01T09:41:34Z" user="Kyle-L" uid="11585092" lat="48.9230925" lon="24.7022673"/>
+ <node id="7775273598" visible="true" version="1" changeset="88811061" timestamp="2020-08-01T09:41:34Z" user="Kyle-L" uid="11585092" lat="48.9231520" lon="24.7024527"/>
+ <node id="7775273599" visible="true" version="1" changeset="88811061" timestamp="2020-08-01T09:41:34Z" user="Kyle-L" uid="11585092" lat="48.9231244" lon="24.7024450"/>
+ <node id="7775273600" visible="true" version="1" changeset="88811061" timestamp="2020-08-01T09:41:34Z" user="Kyle-L" uid="11585092" lat="48.9230880" lon="24.7024390"/>
+ <node id="7775273603" visible="true" version="1" changeset="88811061" timestamp="2020-08-01T09:41:34Z" user="Kyle-L" uid="11585092" lat="48.9219038" lon="24.7010379"/>
+ <node id="8038115391" visible="true" version="1" changeset="92916879" timestamp="2020-10-22T19:54:45Z" user="Владислав Федорчук" uid="10498572" lat="48.9234951" lon="24.7030804">
+  <tag k="emergency" v="fire_hydrant"/>
+ </node>
+ <node id="8170675800" visible="true" version="2" changeset="104080806" timestamp="2021-05-03T21:37:22Z" user="VARVAR8" uid="3850484" lat="48.9227361" lon="24.7028232"/>
+ <node id="8170675802" visible="true" version="1" changeset="94900103" timestamp="2020-11-27T13:54:46Z" user="Yurko Hudyma" uid="8679676" lat="48.9234004" lon="24.7033377"/>
+ <node id="8645454617" visible="true" version="1" changeset="103226096" timestamp="2021-04-19T23:32:26Z" user="Vlad212121" uid="13120532" lat="48.9231668" lon="24.7019036">
+  <tag k="amenity" v="bureau_de_change"/>
+  <tag k="name" v="Exchange"/>
+  <tag k="opening_hours" v="Mo-Sa 09:00-19:00"/>
+ </node>
+ <node id="8695217810" visible="true" version="1" changeset="104080806" timestamp="2021-05-03T21:37:22Z" user="VARVAR8" uid="3850484" lat="48.9223623" lon="24.7014964"/>
+ <node id="8695220072" visible="true" version="1" changeset="104080806" timestamp="2021-05-03T21:37:22Z" user="VARVAR8" uid="3850484" lat="48.9230227" lon="24.7035769"/>
+ <node id="8695220073" visible="true" version="1" changeset="104080806" timestamp="2021-05-03T21:37:22Z" user="VARVAR8" uid="3850484" lat="48.9229152" lon="24.7037727"/>
+ <node id="8695220074" visible="true" version="1" changeset="104080806" timestamp="2021-05-03T21:37:22Z" user="VARVAR8" uid="3850484" lat="48.9231665" lon="24.7031565"/>
+ <node id="8695220432" visible="true" version="1" changeset="104080806" timestamp="2021-05-03T21:37:22Z" user="VARVAR8" uid="3850484" lat="48.9227388" lon="24.7043413"/>
+ <node id="8843009280" visible="true" version="1" changeset="106550690" timestamp="2021-06-17T20:09:03Z" user="frdzhv" uid="13583424" lat="48.9225585" lon="24.7036657"/>
+ <node id="8843009281" visible="true" version="1" changeset="106550690" timestamp="2021-06-17T20:09:03Z" user="frdzhv" uid="13583424" lat="48.9227523" lon="24.7030911"/>
+ <node id="8843009282" visible="true" version="1" changeset="106550690" timestamp="2021-06-17T20:09:03Z" user="frdzhv" uid="13583424" lat="48.9228833" lon="24.7031934"/>
+ <node id="8843009283" visible="true" version="1" changeset="106550690" timestamp="2021-06-17T20:09:03Z" user="frdzhv" uid="13583424" lat="48.9226896" lon="24.7037680"/>
+ <way id="156450103" visible="true" version="18" changeset="91870999" timestamp="2020-10-02T15:34:20Z" user="iWowik" uid="481934">
+  <nd ref="1025598995"/>
+  <nd ref="7464978020"/>
+  <nd ref="1025592494"/>
+  <nd ref="4888217356"/>
+  <nd ref="3518794578"/>
+  <nd ref="5941367874"/>
+  <nd ref="3522533972"/>
+  <nd ref="1025592751"/>
+  <nd ref="1655914953"/>
+  <tag k="highway" v="tertiary"/>
+  <tag k="lanes" v="2"/>
+  <tag k="name" v="Бельведерська вулиця"/>
+  <tag k="name:en" v="Belvederska Street"/>
+  <tag k="name:pl" v="ulica Belwederska"/>
+  <tag k="name:ru" v="Бельведерская улица"/>
+  <tag k="name:uk" v="Бельведерська вулиця"/>
+  <tag k="oneway" v="no"/>
+  <tag k="source" v="Bing Aerial"/>
+ </way>
+ <way id="342835807" visible="true" version="17" changeset="106852031" timestamp="2021-06-23T17:14:38Z" user="FarmFreshMaps" uid="9461062">
+  <nd ref="3522532992"/>
+  <nd ref="3852747930"/>
+  <nd ref="3522533677"/>
+  <nd ref="2701156599"/>
+  <nd ref="3852747928"/>
+  <nd ref="3978468252"/>
+  <nd ref="1025598995"/>
+  <tag k="highway" v="secondary"/>
+  <tag k="lanes" v="4"/>
+  <tag k="name" v="Південний бульвар"/>
+  <tag k="name:en" v="Pivdennyi Boulevard"/>
+  <tag k="name:pl" v="bulwar Poludniowy"/>
+  <tag k="name:ru" v="Южный бульвар"/>
+  <tag k="name:uk" v="Південний бульвар"/>
+  <tag k="source" v="Bing Aerial"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="343077264" visible="true" version="2" changeset="48287901" timestamp="2017-04-30T17:50:51Z" user="Chieftl" uid="3225928">
+  <nd ref="4827456922"/>
+  <nd ref="4827456921"/>
+  <nd ref="3499951282"/>
+  <nd ref="4827456613"/>
+  <nd ref="4827456949"/>
+  <nd ref="4827456948"/>
+  <nd ref="4827456614"/>
+  <nd ref="4827456941"/>
+  <nd ref="3499952820"/>
+  <nd ref="4827456922"/>
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="addr:street" v="Південний бульвар"/>
+  <tag k="building" v="residential"/>
+  <tag k="building:levels" v="10"/>
+  <tag k="roof:shape" v="gabled"/>
+ </way>
+ <way id="344157588" visible="true" version="3" changeset="39235141" timestamp="2016-05-11T08:07:00Z" user="dudka" uid="440812">
+  <nd ref="3509169040"/>
+  <nd ref="3509169045"/>
+  <nd ref="3509169050"/>
+  <nd ref="3509169048"/>
+  <nd ref="3509169040"/>
+  <tag k="addr:housenumber" v="32"/>
+  <tag k="addr:street" v="Бельведерська вулиця"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="345341578" visible="true" version="3" changeset="90972513" timestamp="2020-09-16T08:44:58Z" user="pirelly" uid="418078">
+  <nd ref="3520372456"/>
+  <nd ref="3520372447"/>
+  <nd ref="3520372455"/>
+  <nd ref="3520372460"/>
+  <nd ref="7775273588"/>
+  <nd ref="7775273589"/>
+  <nd ref="3520372468"/>
+  <nd ref="7775273586"/>
+  <nd ref="7775273587"/>
+  <nd ref="7775273591"/>
+  <nd ref="7775273592"/>
+  <nd ref="7775273593"/>
+  <nd ref="7775273594"/>
+  <nd ref="7775273595"/>
+  <nd ref="7775273590"/>
+  <nd ref="7775273598"/>
+  <nd ref="7775273599"/>
+  <nd ref="7775273600"/>
+  <nd ref="3520372456"/>
+  <tag k="addr:housenumber" v="27б"/>
+  <tag k="addr:postcode" v="76000"/>
+  <tag k="addr:street" v="Бельведерська вулиця"/>
+  <tag k="building" v="apartments"/>
+  <tag k="building:levels" v="14"/>
+ </way>
+ <way id="345341582" visible="true" version="2" changeset="51628695" timestamp="2017-08-31T21:37:28Z" user="Chieftl" uid="3225928">
+  <nd ref="3520372461"/>
+  <nd ref="3520372454"/>
+  <nd ref="3520372448"/>
+  <nd ref="3520372453"/>
+  <nd ref="3520372461"/>
+  <tag k="addr:housenumber" v="27а"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="345341583" visible="true" version="2" changeset="51628695" timestamp="2017-08-31T21:37:28Z" user="Chieftl" uid="3225928">
+  <nd ref="3520372465"/>
+  <nd ref="3520372467"/>
+  <nd ref="3520372466"/>
+  <nd ref="3520372462"/>
+  <nd ref="3520372465"/>
+  <tag k="addr:housenumber" v="27"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="345341593" visible="true" version="1" changeset="31185615" timestamp="2015-05-15T19:38:16Z" user="_sev" uid="356014">
+  <nd ref="3520372463"/>
+  <nd ref="3520372457"/>
+  <nd ref="3520372454"/>
+  <nd ref="3520372461"/>
+  <nd ref="3520372463"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="345611529" visible="true" version="7" changeset="104080806" timestamp="2021-05-03T21:37:22Z" user="VARVAR8" uid="3850484">
+  <nd ref="3522533599"/>
+  <nd ref="8695217810"/>
+  <nd ref="3522533688"/>
+  <nd ref="4827456616"/>
+  <nd ref="7465031880"/>
+  <nd ref="7464978020"/>
+  <tag k="highway" v="service"/>
+ </way>
+ <way id="347718198" visible="true" version="2" changeset="52480052" timestamp="2017-09-29T16:28:40Z" user="Chieftl" uid="3225928">
+  <nd ref="3539732771"/>
+  <nd ref="3539732770"/>
+  <nd ref="3539732769"/>
+  <nd ref="3539732768"/>
+  <nd ref="3539732764"/>
+  <nd ref="3539732765"/>
+  <nd ref="3539732766"/>
+  <nd ref="3539732767"/>
+  <nd ref="3539732774"/>
+  <nd ref="3539732775"/>
+  <nd ref="3539732776"/>
+  <nd ref="3539732777"/>
+  <nd ref="3539732779"/>
+  <nd ref="3539735498"/>
+  <nd ref="3539735497"/>
+  <nd ref="3539732787"/>
+  <nd ref="3539735496"/>
+  <nd ref="5137781427"/>
+  <nd ref="3539732778"/>
+  <nd ref="3539732773"/>
+  <nd ref="3539732772"/>
+  <nd ref="3539732771"/>
+  <tag k="landuse" v="residential"/>
+ </way>
+ <way id="382055153" visible="true" version="3" changeset="52480052" timestamp="2017-09-29T16:28:40Z" user="Chieftl" uid="3225928">
+  <nd ref="3852504703"/>
+  <nd ref="3499951259"/>
+  <nd ref="3852504704"/>
+  <nd ref="3852504705"/>
+  <nd ref="3499951275"/>
+  <nd ref="3499951276"/>
+  <nd ref="3499951274"/>
+  <nd ref="3499951273"/>
+  <nd ref="3499951252"/>
+  <nd ref="5137781449"/>
+  <nd ref="3852504703"/>
+  <tag k="addr:city" v="Івано-Фаранківськ"/>
+  <tag k="addr:housenumber" v="21"/>
+  <tag k="addr:postcode" v="76000"/>
+  <tag k="addr:street" v="Південний бульвар"/>
+  <tag k="building" v="apartments"/>
+  <tag k="building:levels" v="11"/>
+ </way>
+ <way id="382075920" visible="true" version="5" changeset="94900103" timestamp="2020-11-27T13:54:46Z" user="Yurko Hudyma" uid="8679676">
+  <nd ref="2701156594"/>
+  <nd ref="3852747947"/>
+  <nd ref="4199267873"/>
+  <nd ref="2701156602"/>
+  <nd ref="8170675800"/>
+  <nd ref="3978468250"/>
+  <nd ref="3852747928"/>
+  <tag k="highway" v="service"/>
+  <tag k="service" v="driveway"/>
+ </way>
+ <way id="382075928" visible="true" version="2" changeset="52480052" timestamp="2017-09-29T16:28:42Z" user="Chieftl" uid="3225928">
+  <nd ref="3852747948"/>
+  <nd ref="3852747955"/>
+  <nd ref="3852747949"/>
+  <nd ref="3852747950"/>
+  <nd ref="3852747951"/>
+  <nd ref="3852747952"/>
+  <nd ref="3852747953"/>
+  <nd ref="3852747954"/>
+  <nd ref="5137781439"/>
+  <nd ref="3852747955"/>
+  <tag k="footway" v="sidewalk"/>
+  <tag k="highway" v="footway"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="394958652" visible="true" version="6" changeset="96451233" timestamp="2020-12-26T13:21:15Z" user="andergrin" uid="2801727">
+  <nd ref="3852747953"/>
+  <nd ref="3978468250"/>
+  <nd ref="7775273597"/>
+  <nd ref="7775273596"/>
+  <nd ref="3978468251"/>
+  <nd ref="3978468252"/>
+  <nd ref="7465031880"/>
+  <nd ref="3978468253"/>
+  <nd ref="4827456618"/>
+  <nd ref="4827456619"/>
+  <nd ref="4827456617"/>
+  <nd ref="3978473757"/>
+  <nd ref="4827456607"/>
+  <nd ref="3978473759"/>
+  <nd ref="7775273603"/>
+  <nd ref="3978473760"/>
+  <nd ref="3978473766"/>
+  <nd ref="3978473768"/>
+  <nd ref="3978473761"/>
+  <nd ref="3978473762"/>
+  <nd ref="3978473763"/>
+  <nd ref="3978473764"/>
+  <nd ref="3978473765"/>
+  <nd ref="3978473766"/>
+  <tag k="highway" v="footway"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="490558513" visible="true" version="1" changeset="48287901" timestamp="2017-04-30T17:50:49Z" user="Chieftl" uid="3225928">
+  <nd ref="4827456613"/>
+  <nd ref="4827456615"/>
+  <nd ref="4827456619"/>
+  <nd ref="3522533688"/>
+  <nd ref="3522533677"/>
+  <tag k="highway" v="service"/>
+ </way>
+ <way id="490558514" visible="true" version="1" changeset="48287901" timestamp="2017-04-30T17:50:49Z" user="Chieftl" uid="3225928">
+  <nd ref="4827456922"/>
+  <nd ref="3499952809"/>
+  <nd ref="4827456620"/>
+  <nd ref="3499951281"/>
+  <nd ref="3499951282"/>
+  <nd ref="4827456921"/>
+  <nd ref="4827456922"/>
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="addr:street" v="Південний бульвар"/>
+  <tag k="building" v="commercial"/>
+  <tag k="building:levels" v="2"/>
+ </way>
+ <way id="524441313" visible="true" version="3" changeset="94900103" timestamp="2020-11-27T13:54:46Z" user="Yurko Hudyma" uid="8679676">
+  <nd ref="1025594531"/>
+  <nd ref="4888217617"/>
+  <nd ref="5531996367"/>
+  <nd ref="5531996369"/>
+  <nd ref="2701156597"/>
+  <nd ref="5531996370"/>
+  <nd ref="8170675802"/>
+  <nd ref="1655904599"/>
+  <nd ref="2701156651"/>
+  <nd ref="1025598995"/>
+  <tag k="highway" v="tertiary"/>
+  <tag k="lanes" v="2"/>
+  <tag k="name" v="Бельведерська вулиця"/>
+  <tag k="name:en" v="Belvederska Street"/>
+  <tag k="name:pl" v="ulica Belwederska"/>
+  <tag k="name:ru" v="Бельведерская улица"/>
+  <tag k="name:uk" v="Бельведерська вулиця"/>
+  <tag k="oneway" v="no"/>
+  <tag k="source" v="Bing Aerial"/>
+ </way>
+ <way id="803772698" visible="true" version="6" changeset="109863278" timestamp="2021-08-18T09:52:06Z" user="Artur Wierniewski" uid="3696253">
+  <nd ref="7518652502"/>
+  <nd ref="1025598995"/>
+  <tag k="check_date" v="2018-05-29"/>
+  <tag k="cycleway:left" v="track"/>
+  <tag k="highway" v="secondary"/>
+  <tag k="lanes" v="4"/>
+  <tag k="name" v="Південний Бульвар"/>
+  <tag k="name:pl" v="bulwar Poludniowy"/>
+  <tag k="oneway" v="no"/>
+  <tag k="source" v="local knowledge"/>
+  <tag k="start_date" v="2021-06-18"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="808805414" visible="true" version="3" changeset="87993644" timestamp="2020-07-14T19:17:38Z" user="Dviljuks1" uid="11340884">
+  <nd ref="4827456922"/>
+  <nd ref="7563076225"/>
+  <nd ref="7563076226"/>
+  <nd ref="7563076227"/>
+  <nd ref="7563076228"/>
+  <nd ref="3499952820"/>
+  <nd ref="4827456922"/>
+  <tag k="addr:housenumber" v="35"/>
+  <tag k="addr:street" v="Бельведерська вулиця"/>
+  <tag k="building" v="apartments"/>
+  <tag k="building:levels" v="10"/>
+ </way>
+ <way id="808805415" visible="true" version="1" changeset="85838270" timestamp="2020-05-27T14:15:53Z" user="GTA KaskaD" uid="5673032">
+  <nd ref="4827456922"/>
+  <nd ref="7563076225"/>
+  <nd ref="7563076229"/>
+  <nd ref="3499952809"/>
+  <nd ref="4827456922"/>
+  <tag k="building" v="commercial"/>
+  <tag k="building:levels" v="2"/>
+ </way>
+ <way id="808805416" visible="true" version="1" changeset="85838270" timestamp="2020-05-27T14:15:53Z" user="GTA KaskaD" uid="5673032">
+  <nd ref="3509169045"/>
+  <nd ref="7563076230"/>
+  <nd ref="7563076231"/>
+  <nd ref="7563076232"/>
+  <nd ref="3509169050"/>
+  <nd ref="3509169045"/>
+  <tag k="building" v="apartments"/>
+  <tag k="building:levels" v="10"/>
+ </way>
+ <way id="878221919" visible="true" version="2" changeset="104080806" timestamp="2021-05-03T21:37:22Z" user="VARVAR8" uid="3850484">
+  <nd ref="8170675800"/>
+  <nd ref="8695220074"/>
+  <nd ref="8170675802"/>
+  <tag k="highway" v="service"/>
+ </way>
+ <way id="938597964" visible="true" version="1" changeset="104080806" timestamp="2021-05-03T21:37:22Z" user="VARVAR8" uid="3850484">
+  <nd ref="8695220432"/>
+  <nd ref="8695220073"/>
+  <nd ref="8695220072"/>
+  <nd ref="8695220074"/>
+  <tag k="highway" v="service"/>
+ </way>
+ <way id="955454806" visible="true" version="1" changeset="106550690" timestamp="2021-06-17T20:09:03Z" user="frdzhv" uid="13583424">
+  <nd ref="8843009280"/>
+  <nd ref="8843009281"/>
+  <nd ref="8843009282"/>
+  <nd ref="8843009283"/>
+  <nd ref="8843009280"/>
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:street" v="Пилипа Орлика вулиця"/>
+  <tag k="building" v="apartments"/>
+  <tag k="building:flats" v="42"/>
+  <tag k="building:levels" v="9"/>
+  <tag k="height" v="30.48"/>
+  <tag k="name" v="вул. Пилипа Орлика, 7"/>
+ </way>
+ <relation id="2738866" visible="true" version="22" changeset="91913993" timestamp="2020-10-03T20:43:45Z" user="iWowik" uid="481934">
+  <member type="way" ref="88299433" role="street"/>
+  <member type="way" ref="419901114" role="street"/>
+  <member type="way" ref="292382309" role="house"/>
+  <member type="way" ref="524441313" role="street"/>
+  <member type="way" ref="156450103" role="street"/>
+  <member type="way" ref="344157596" role="house"/>
+  <member type="way" ref="344157597" role="house"/>
+  <member type="way" ref="361174707" role="house"/>
+  <member type="way" ref="344157588" role="house"/>
+  <member type="way" ref="342835813" role="street"/>
+  <member type="way" ref="88381654" role="house"/>
+  <member type="way" ref="88381662" role="house"/>
+  <member type="way" ref="88381462" role="house"/>
+  <member type="way" ref="156452238" role="street"/>
+  <member type="way" ref="273672508" role="house"/>
+  <member type="way" ref="273671533" role="house"/>
+  <member type="way" ref="338933094" role="house"/>
+  <member type="way" ref="88381688" role="house"/>
+  <member type="way" ref="345868358" role="house"/>
+  <member type="way" ref="345341596" role="house"/>
+  <member type="way" ref="345341583" role="house"/>
+  <member type="way" ref="345341582" role="house"/>
+  <member type="way" ref="343521116" role="house"/>
+  <member type="way" ref="520411893" role="house"/>
+  <member type="way" ref="520411890" role="house"/>
+  <member type="way" ref="88381568" role="house"/>
+  <member type="way" ref="344157595" role="house"/>
+  <member type="way" ref="344157575" role="house"/>
+  <member type="way" ref="344157590" role="house"/>
+  <member type="way" ref="520411895" role="house"/>
+  <member type="way" ref="520411894" role="house"/>
+  <member type="way" ref="520411896" role="house"/>
+  <member type="way" ref="345328634" role="house"/>
+  <member type="way" ref="520411888" role="house"/>
+  <member type="way" ref="345328635" role="house"/>
+  <member type="way" ref="345328633" role="house"/>
+  <member type="way" ref="345328638" role="house"/>
+  <member type="way" ref="343521113" role="house"/>
+  <member type="way" ref="528763960" role="house"/>
+  <member type="way" ref="621567819" role="house"/>
+  <member type="way" ref="342893229" role="house"/>
+  <member type="way" ref="621567818" role="house"/>
+  <member type="way" ref="621567820" role="house"/>
+  <member type="way" ref="345341600" role="house"/>
+  <member type="way" ref="345341604" role="house"/>
+  <member type="way" ref="621567816" role="house"/>
+  <member type="way" ref="345328636" role="house"/>
+  <member type="way" ref="345328637" role="house"/>
+  <member type="way" ref="292382369" role="house"/>
+  <member type="way" ref="292382359" role="house"/>
+  <member type="way" ref="292382334" role="house"/>
+  <member type="way" ref="88381609" role="house"/>
+  <member type="way" ref="292382368" role="house"/>
+  <member type="way" ref="88381602" role="house"/>
+  <member type="way" ref="345611525" role="house"/>
+  <member type="way" ref="808805414" role="house"/>
+  <tag k="name" v="Бельведерська вулиця"/>
+  <tag k="name:pl" v="ulica Belwederska"/>
+  <tag k="name:ru" v="Бельведерская улица"/>
+  <tag k="name:uk" v="Бельведерська вулиця"/>
+  <tag k="type" v="associatedStreet"/>
+  <tag k="wikidata" v="Q12091234"/>
+  <tag k="wikipedia" v="uk:Вулиця Бельведерська"/>
+ </relation>
+ <relation id="5147633" visible="true" version="10" changeset="91914449" timestamp="2020-10-03T20:44:06Z" user="iWowik" uid="481934">
+  <member type="way" ref="88381655" role="house"/>
+  <member type="way" ref="424189244" role="street"/>
+  <member type="way" ref="342835807" role="street"/>
+  <member type="way" ref="88381470" role="house"/>
+  <member type="way" ref="282837586" role="street"/>
+  <member type="way" ref="107597423" role="house"/>
+  <member type="way" ref="107597427" role="house"/>
+  <member type="way" ref="148518085" role="house"/>
+  <member type="way" ref="374357640" role="house"/>
+  <member type="way" ref="382055153" role="house"/>
+  <member type="way" ref="88381536" role="house"/>
+  <member type="way" ref="490558523" role="house"/>
+  <member type="way" ref="490558521" role="house"/>
+  <member type="way" ref="490558518" role="house"/>
+  <member type="way" ref="343077371" role="house"/>
+  <member type="way" ref="343077264" role="house"/>
+  <member type="way" ref="490558514" role="house"/>
+  <member type="way" ref="490590755" role="house"/>
+  <member type="way" ref="88381454" role="house"/>
+  <member type="way" ref="344259000" role="house"/>
+  <member type="way" ref="344259002" role="house"/>
+  <member type="way" ref="88381467" role="house"/>
+  <member type="way" ref="88381490" role="house"/>
+  <member type="way" ref="88381601" role="house"/>
+  <member type="way" ref="344253373" role="house"/>
+  <member type="way" ref="490590771" role="house"/>
+  <member type="way" ref="490590774" role="house"/>
+  <member type="way" ref="382071285" role="house"/>
+  <member type="way" ref="584766782" role="house"/>
+  <tag k="name" v="Південний бульвар"/>
+  <tag k="name:en" v="Pivdennyi Boulevard"/>
+  <tag k="name:pl" v="bulwar Poludniowy"/>
+  <tag k="name:ru" v="Южный бульвар"/>
+  <tag k="name:uk" v="Південний бульвар"/>
+  <tag k="type" v="associatedStreet"/>
+ </relation>
+ <relation id="6303239" visible="true" version="10" changeset="79063344" timestamp="2019-12-31T16:44:09Z" user="Chieftl" uid="3225928">
+  <member type="node" ref="3510637020" role="stop"/>
+  <member type="node" ref="4235739698" role="platform"/>
+  <member type="node" ref="5117414537" role="platform"/>
+  <member type="node" ref="5117414530" role="platform"/>
+  <member type="node" ref="4705529191" role="platform"/>
+  <member type="node" ref="4705502390" role="platform"/>
+  <member type="node" ref="4375138790" role="platform"/>
+  <member type="node" ref="5117414535" role="platform"/>
+  <member type="node" ref="4199267839" role="platform"/>
+  <member type="node" ref="5117414532" role="platform"/>
+  <member type="node" ref="5117414291" role="platform"/>
+  <member type="node" ref="5117414230" role="platform"/>
+  <member type="node" ref="5117414522" role="platform"/>
+  <member type="node" ref="5117414303" role="platform"/>
+  <member type="node" ref="2140405136" role="platform"/>
+  <member type="node" ref="4299993630" role="platform"/>
+  <member type="node" ref="5117414528" role="platform"/>
+  <member type="node" ref="5519493439" role="platform"/>
+  <member type="node" ref="5117414294" role="platform"/>
+  <member type="node" ref="5117414245" role="platform"/>
+  <member type="node" ref="5603930511" role="platform"/>
+  <member type="node" ref="5202876536" role="platform"/>
+  <member type="node" ref="5117413420" role="platform"/>
+  <member type="node" ref="7098571718" role="platform"/>
+  <member type="way" ref="424094674" role=""/>
+  <member type="way" ref="342828729" role=""/>
+  <member type="way" ref="47812158" role=""/>
+  <member type="way" ref="420089632" role=""/>
+  <member type="way" ref="293863489" role=""/>
+  <member type="way" ref="293863488" role=""/>
+  <member type="way" ref="222132845" role=""/>
+  <member type="way" ref="153062296" role=""/>
+  <member type="way" ref="153062302" role=""/>
+  <member type="way" ref="204029977" role=""/>
+  <member type="way" ref="424095852" role=""/>
+  <member type="way" ref="419940684" role=""/>
+  <member type="way" ref="343036457" role=""/>
+  <member type="way" ref="88299245" role=""/>
+  <member type="way" ref="424116014" role=""/>
+  <member type="way" ref="419940683" role=""/>
+  <member type="way" ref="342831644" role=""/>
+  <member type="way" ref="342828731" role=""/>
+  <member type="way" ref="342828732" role=""/>
+  <member type="way" ref="342835813" role=""/>
+  <member type="way" ref="156450103" role=""/>
+  <member type="way" ref="524441313" role=""/>
+  <member type="way" ref="419901114" role=""/>
+  <member type="way" ref="88299366" role=""/>
+  <member type="way" ref="424189243" role=""/>
+  <member type="way" ref="424109260" role=""/>
+  <member type="way" ref="424094670" role=""/>
+  <member type="way" ref="123331668" role=""/>
+  <member type="way" ref="424117442" role=""/>
+  <member type="way" ref="342835816" role=""/>
+  <member type="way" ref="424094676" role=""/>
+  <member type="way" ref="88299307" role=""/>
+  <member type="way" ref="342835810" role=""/>
+  <member type="way" ref="152995165" role=""/>
+  <member type="way" ref="115829387" role=""/>
+  <member type="way" ref="277318076" role=""/>
+  <member type="way" ref="759880944" role=""/>
+  <member type="way" ref="759880945" role=""/>
+  <member type="way" ref="759880947" role=""/>
+  <tag k="from" v="Тролейбусне депо"/>
+  <tag k="name" v="Маршрутка №25: Тролейбусне депо — Меблева фабрика"/>
+  <tag k="public_transport:version" v="2"/>
+  <tag k="ref" v="25"/>
+  <tag k="route" v="bus"/>
+  <tag k="to" v="Меблева фабрика"/>
+  <tag k="type" v="route"/>
+ </relation>
+ <relation id="6303394" visible="true" version="8" changeset="85211524" timestamp="2020-05-14T16:14:25Z" user="GTA KaskaD" uid="5673032">
+  <member type="node" ref="4227006513" role="platform"/>
+  <member type="node" ref="5117414542" role="platform"/>
+  <member type="node" ref="5117414531" role="platform"/>
+  <member type="node" ref="5117414305" role="platform"/>
+  <member type="node" ref="4236652089" role="platform"/>
+  <member type="node" ref="5117414534" role="platform"/>
+  <member type="node" ref="4236640840" role="platform"/>
+  <member type="node" ref="4401493293" role="platform"/>
+  <member type="node" ref="2119033842" role="platform"/>
+  <member type="node" ref="5117414226" role="platform"/>
+  <member type="node" ref="4401493492" role="platform"/>
+  <member type="node" ref="4401518893" role="platform"/>
+  <member type="node" ref="3509954847" role="platform"/>
+  <member type="node" ref="5117414543" role="platform"/>
+  <member type="node" ref="5117413419" role="platform"/>
+  <member type="node" ref="5117414295" role="platform"/>
+  <member type="node" ref="7098571738" role="platform"/>
+  <member type="node" ref="5117414242" role="platform"/>
+  <member type="node" ref="7098571737" role="platform"/>
+  <member type="node" ref="4705529092" role="platform"/>
+  <member type="node" ref="4705529091" role="platform"/>
+  <member type="node" ref="5117414544" role="platform"/>
+  <member type="node" ref="5117414319" role="platform"/>
+  <member type="node" ref="4200691542" role="platform"/>
+  <member type="way" ref="408466925" role=""/>
+  <member type="way" ref="803785843" role=""/>
+  <member type="way" ref="88299227" role=""/>
+  <member type="way" ref="408466926" role=""/>
+  <member type="way" ref="420089635" role=""/>
+  <member type="way" ref="420089633" role=""/>
+  <member type="way" ref="88299272" role=""/>
+  <member type="way" ref="420089634" role=""/>
+  <member type="way" ref="88299549" role=""/>
+  <member type="way" ref="803785842" role=""/>
+  <member type="way" ref="115830580" role=""/>
+  <member type="way" ref="424165670" role=""/>
+  <member type="way" ref="420045906" role=""/>
+  <member type="way" ref="420045909" role=""/>
+  <member type="way" ref="420045918" role=""/>
+  <member type="way" ref="420045913" role=""/>
+  <member type="way" ref="420045908" role=""/>
+  <member type="way" ref="115830206" role=""/>
+  <member type="way" ref="759880948" role=""/>
+  <member type="way" ref="424202353" role=""/>
+  <member type="way" ref="342828741" role=""/>
+  <member type="way" ref="803785846" role=""/>
+  <member type="way" ref="420112561" role=""/>
+  <member type="way" ref="201891427" role=""/>
+  <member type="way" ref="422983094" role=""/>
+  <member type="way" ref="237103304" role=""/>
+  <member type="way" ref="424094669" role=""/>
+  <member type="way" ref="407369578" role=""/>
+  <member type="way" ref="288064337" role=""/>
+  <member type="way" ref="424094668" role=""/>
+  <member type="way" ref="342835810" role=""/>
+  <member type="way" ref="424094667" role=""/>
+  <member type="way" ref="88299562" role=""/>
+  <member type="way" ref="27517033" role=""/>
+  <member type="way" ref="408466930" role=""/>
+  <member type="way" ref="417885941" role=""/>
+  <member type="way" ref="424189243" role=""/>
+  <member type="way" ref="152815264" role=""/>
+  <member type="way" ref="516881611" role=""/>
+  <member type="way" ref="524441312" role=""/>
+  <member type="way" ref="516881613" role=""/>
+  <member type="way" ref="342835807" role=""/>
+  <member type="way" ref="156450103" role=""/>
+  <member type="way" ref="342835813" role=""/>
+  <member type="way" ref="342828732" role=""/>
+  <member type="way" ref="342828731" role=""/>
+  <member type="way" ref="342831644" role=""/>
+  <member type="way" ref="419940683" role=""/>
+  <member type="way" ref="123331661" role=""/>
+  <member type="way" ref="343036457" role=""/>
+  <member type="way" ref="419940684" role=""/>
+  <member type="way" ref="424095852" role=""/>
+  <member type="way" ref="204029977" role=""/>
+  <member type="way" ref="153062302" role=""/>
+  <member type="way" ref="153062296" role=""/>
+  <member type="way" ref="222132845" role=""/>
+  <member type="way" ref="293863488" role=""/>
+  <member type="way" ref="293863489" role=""/>
+  <member type="way" ref="420089632" role=""/>
+  <member type="way" ref="420089636" role=""/>
+  <member type="way" ref="152998914" role=""/>
+  <member type="way" ref="212462910" role=""/>
+  <member type="way" ref="420089637" role=""/>
+  <member type="way" ref="462905988" role=""/>
+  <member type="way" ref="420089640" role=""/>
+  <tag k="from" v="АС-3"/>
+  <tag k="name" v="Маршрутка №29: АС-3 — Обласна лікарня"/>
+  <tag k="public_transport:version" v="2"/>
+  <tag k="ref" v="29"/>
+  <tag k="route" v="bus"/>
+  <tag k="to" v="Обласна лікарня"/>
+  <tag k="type" v="route"/>
+ </relation>
+ <relation id="6303922" visible="true" version="8" changeset="85211524" timestamp="2020-05-14T16:14:25Z" user="GTA KaskaD" uid="5673032">
+  <member type="node" ref="4094076388" role="stop"/>
+  <member type="node" ref="3499953764" role="platform"/>
+  <member type="node" ref="4093912441" role="stop"/>
+  <member type="node" ref="3498909309" role="platform"/>
+  <member type="node" ref="5117414311" role="platform"/>
+  <member type="node" ref="5117414530" role="platform"/>
+  <member type="node" ref="4705529191" role="platform"/>
+  <member type="node" ref="4705502390" role="platform"/>
+  <member type="node" ref="4375138790" role="platform"/>
+  <member type="node" ref="5117414535" role="platform"/>
+  <member type="node" ref="4199267839" role="platform"/>
+  <member type="node" ref="5117414532" role="platform"/>
+  <member type="node" ref="5117414291" role="platform"/>
+  <member type="node" ref="5117414230" role="platform"/>
+  <member type="node" ref="5117414522" role="platform"/>
+  <member type="node" ref="5117414303" role="platform"/>
+  <member type="node" ref="2140405136" role="platform"/>
+  <member type="node" ref="4299993630" role="platform"/>
+  <member type="node" ref="4173364785" role="platform"/>
+  <member type="node" ref="4297366495" role="platform"/>
+  <member type="node" ref="4297385789" role="platform"/>
+  <member type="node" ref="5117414228" role="platform"/>
+  <member type="node" ref="5117414280" role="platform"/>
+  <member type="node" ref="5117414266" role="platform"/>
+  <member type="node" ref="4103896051" role="stop"/>
+  <member type="node" ref="5117414241" role="platform"/>
+  <member type="way" ref="407362604" role=""/>
+  <member type="way" ref="200486608" role=""/>
+  <member type="way" ref="152998916" role=""/>
+  <member type="way" ref="155050030" role=""/>
+  <member type="way" ref="155050028" role=""/>
+  <member type="way" ref="342831642" role=""/>
+  <member type="way" ref="407344098" role=""/>
+  <member type="way" ref="407344089" role=""/>
+  <member type="way" ref="342828730" role=""/>
+  <member type="way" ref="47812158" role=""/>
+  <member type="way" ref="420089632" role=""/>
+  <member type="way" ref="293863489" role=""/>
+  <member type="way" ref="293863488" role=""/>
+  <member type="way" ref="222132845" role=""/>
+  <member type="way" ref="153062296" role=""/>
+  <member type="way" ref="153062302" role=""/>
+  <member type="way" ref="204029977" role=""/>
+  <member type="way" ref="424095852" role=""/>
+  <member type="way" ref="419940684" role=""/>
+  <member type="way" ref="343036457" role=""/>
+  <member type="way" ref="88299245" role=""/>
+  <member type="way" ref="424116014" role=""/>
+  <member type="way" ref="419940683" role=""/>
+  <member type="way" ref="342831644" role=""/>
+  <member type="way" ref="342828731" role=""/>
+  <member type="way" ref="342828732" role=""/>
+  <member type="way" ref="342835813" role=""/>
+  <member type="way" ref="156450103" role=""/>
+  <member type="way" ref="524441313" role=""/>
+  <member type="way" ref="419901114" role=""/>
+  <member type="way" ref="88299366" role=""/>
+  <member type="way" ref="424189243" role=""/>
+  <member type="way" ref="424109260" role=""/>
+  <member type="way" ref="424094670" role=""/>
+  <member type="way" ref="123331668" role=""/>
+  <member type="way" ref="424117442" role=""/>
+  <member type="way" ref="342835816" role=""/>
+  <member type="way" ref="424094676" role=""/>
+  <member type="way" ref="342835819" role=""/>
+  <member type="way" ref="420045916" role=""/>
+  <member type="way" ref="408466932" role=""/>
+  <member type="way" ref="420045905" role=""/>
+  <member type="way" ref="424165670" role=""/>
+  <member type="way" ref="115830580" role=""/>
+  <member type="way" ref="803785842" role=""/>
+  <member type="way" ref="88299568" role=""/>
+  <member type="way" ref="408466927" role=""/>
+  <member type="way" ref="88299496" role=""/>
+  <member type="way" ref="803785843" role=""/>
+  <member type="way" ref="408466925" role=""/>
+  <member type="way" ref="422981362" role=""/>
+  <member type="way" ref="408466924" role=""/>
+  <tag k="from" v="АС-2"/>
+  <tag k="name" v="Маршрутка №36: АС-2 — АС-3"/>
+  <tag k="public_transport:version" v="2"/>
+  <tag k="ref" v="36"/>
+  <tag k="route" v="bus"/>
+  <tag k="to" v="АС-3"/>
+  <tag k="type" v="route"/>
+ </relation>
+ <relation id="10357684" visible="true" version="3" changeset="87069591" timestamp="2020-06-24T07:42:41Z" user="Dviljuks1" uid="11340884">
+  <member type="node" ref="4745808827" role="platform_entry_only"/>
+  <member type="node" ref="4745808828" role="platform"/>
+  <member type="node" ref="4745808823" role="platform"/>
+  <member type="node" ref="7023847725" role="platform"/>
+  <member type="node" ref="7023847727" role="platform"/>
+  <member type="node" ref="7023847730" role="platform"/>
+  <member type="node" ref="7023847731" role="platform"/>
+  <member type="node" ref="7023847724" role="platform"/>
+  <member type="node" ref="5117414233" role="platform"/>
+  <member type="node" ref="5117414227" role="platform"/>
+  <member type="node" ref="5117414301" role="platform"/>
+  <member type="node" ref="5117413418" role="platform"/>
+  <member type="node" ref="4382991799" role="platform"/>
+  <member type="node" ref="3509954847" role="platform"/>
+  <member type="node" ref="7023847749" role="platform"/>
+  <member type="node" ref="5117414543" role="platform"/>
+  <member type="node" ref="7023847748" role="platform"/>
+  <member type="node" ref="7023847747" role="platform"/>
+  <member type="node" ref="5117414236" role="platform"/>
+  <member type="way" ref="751342320" role=""/>
+  <member type="way" ref="238998670" role=""/>
+  <member type="way" ref="377852726" role=""/>
+  <member type="way" ref="377852724" role=""/>
+  <member type="way" ref="345787137" role=""/>
+  <member type="way" ref="524441306" role=""/>
+  <member type="way" ref="212462936" role=""/>
+  <member type="way" ref="345787135" role=""/>
+  <member type="way" ref="424172963" role=""/>
+  <member type="way" ref="294240934" role=""/>
+  <member type="way" ref="133061978" role=""/>
+  <member type="way" ref="176780567" role=""/>
+  <member type="way" ref="407304582" role=""/>
+  <member type="way" ref="802588858" role=""/>
+  <member type="way" ref="802588859" role=""/>
+  <member type="way" ref="802588860" role=""/>
+  <member type="way" ref="802588861" role=""/>
+  <member type="way" ref="802588862" role=""/>
+  <member type="way" ref="133061975" role=""/>
+  <member type="way" ref="133061976" role=""/>
+  <member type="way" ref="342828740" role=""/>
+  <member type="way" ref="424188209" role=""/>
+  <member type="way" ref="288064340" role=""/>
+  <member type="way" ref="342828739" role=""/>
+  <member type="way" ref="80608250" role=""/>
+  <member type="way" ref="417885943" role=""/>
+  <member type="way" ref="417885942" role=""/>
+  <member type="way" ref="27517033" role=""/>
+  <member type="way" ref="408466930" role=""/>
+  <member type="way" ref="417885941" role=""/>
+  <member type="way" ref="424189243" role=""/>
+  <member type="way" ref="152815264" role=""/>
+  <member type="way" ref="516881611" role=""/>
+  <member type="way" ref="524441312" role=""/>
+  <member type="way" ref="516881613" role=""/>
+  <member type="way" ref="342835807" role=""/>
+  <member type="way" ref="156450103" role=""/>
+  <member type="way" ref="342835813" role=""/>
+  <member type="way" ref="156452238" role=""/>
+  <member type="way" ref="123331648" role=""/>
+  <member type="way" ref="88299574" role=""/>
+  <member type="way" ref="751342338" role=""/>
+  <member type="way" ref="751342337" role=""/>
+  <tag k="from" v="с. Підлужжя"/>
+  <tag k="name" v="Автобус №45: с. Підлужжя — вул. Набережна"/>
+  <tag k="network" v="Івано-Франківський автобус"/>
+  <tag k="opening_hours" v="Mo-Fr 06:50-20:10; Sa-Su 07:12-20:10"/>
+  <tag k="operator" v="КП &quot;Електроавтотранс&quot;"/>
+  <tag k="public_transport:version" v="2"/>
+  <tag k="ref" v="47"/>
+  <tag k="route" v="bus"/>
+  <tag k="to" v="вул. Набережна"/>
+  <tag k="type" v="route"/>
+ </relation>
+ <relation id="10357689" visible="true" version="3" changeset="87069591" timestamp="2020-06-24T07:42:41Z" user="Dviljuks1" uid="11340884">
+  <member type="node" ref="4762842467" role="platform_entry_only"/>
+  <member type="node" ref="7023847751" role="platform"/>
+  <member type="node" ref="5117414224" role="platform"/>
+  <member type="node" ref="4919553122" role="platform"/>
+  <member type="node" ref="4094414490" role="platform"/>
+  <member type="node" ref="5117414233" role="platform"/>
+  <member type="node" ref="5117414227" role="platform"/>
+  <member type="node" ref="5117414301" role="platform"/>
+  <member type="node" ref="5117413418" role="platform"/>
+  <member type="node" ref="4382991799" role="platform"/>
+  <member type="node" ref="3509954847" role="platform"/>
+  <member type="node" ref="7023847749" role="platform"/>
+  <member type="node" ref="5117414543" role="platform"/>
+  <member type="node" ref="7023847748" role="platform"/>
+  <member type="node" ref="7023847747" role="platform"/>
+  <member type="node" ref="5117414236" role="platform"/>
+  <member type="way" ref="751342339" role=""/>
+  <member type="way" ref="343036992" role=""/>
+  <member type="way" ref="525940264" role=""/>
+  <member type="way" ref="525940255" role=""/>
+  <member type="way" ref="407396993" role=""/>
+  <member type="way" ref="407396994" role=""/>
+  <member type="way" ref="407396995" role=""/>
+  <member type="way" ref="294240934" role=""/>
+  <member type="way" ref="133061978" role=""/>
+  <member type="way" ref="176780567" role=""/>
+  <member type="way" ref="407304582" role=""/>
+  <member type="way" ref="802588858" role=""/>
+  <member type="way" ref="802588859" role=""/>
+  <member type="way" ref="802588860" role=""/>
+  <member type="way" ref="802588861" role=""/>
+  <member type="way" ref="802588862" role=""/>
+  <member type="way" ref="133061975" role=""/>
+  <member type="way" ref="133061976" role=""/>
+  <member type="way" ref="342828740" role=""/>
+  <member type="way" ref="424188209" role=""/>
+  <member type="way" ref="288064340" role=""/>
+  <member type="way" ref="342828739" role=""/>
+  <member type="way" ref="80608250" role=""/>
+  <member type="way" ref="417885943" role=""/>
+  <member type="way" ref="417885942" role=""/>
+  <member type="way" ref="27517033" role=""/>
+  <member type="way" ref="408466930" role=""/>
+  <member type="way" ref="417885941" role=""/>
+  <member type="way" ref="424189243" role=""/>
+  <member type="way" ref="152815264" role=""/>
+  <member type="way" ref="516881611" role=""/>
+  <member type="way" ref="524441312" role=""/>
+  <member type="way" ref="516881613" role=""/>
+  <member type="way" ref="342835807" role=""/>
+  <member type="way" ref="156450103" role=""/>
+  <member type="way" ref="342835813" role=""/>
+  <member type="way" ref="156452238" role=""/>
+  <member type="way" ref="123331648" role=""/>
+  <member type="way" ref="88299574" role=""/>
+  <member type="way" ref="751342338" role=""/>
+  <member type="way" ref="751342337" role=""/>
+  <tag k="from" v="вул. Юності"/>
+  <tag k="name" v="Автобус №49: вул. Юності — вул. Набережна"/>
+  <tag k="network" v="Івано-Франківський автобус"/>
+  <tag k="opening_hours" v="Mo-Fr 06:49-21:53; Sa-Su 06:46-21:32"/>
+  <tag k="operator" v="КП &quot;Електроавтотранс&quot;"/>
+  <tag k="public_transport:version" v="2"/>
+  <tag k="ref" v="49"/>
+  <tag k="route" v="bus"/>
+  <tag k="to" v="вул. Набережна"/>
+  <tag k="type" v="route"/>
+ </relation>
+ <relation id="10357698" visible="true" version="1" changeset="77786802" timestamp="2019-12-01T17:09:46Z" user="Chieftl" uid="3225928">
+  <member type="relation" ref="10357689" role=""/>
+  <member type="relation" ref="10357688" role=""/>
+  <tag k="charge" v="4.00 UAH"/>
+  <tag k="fee" v="yes"/>
+  <tag k="name" v="Автобус №49"/>
+  <tag k="network" v="Івано-Франківський автобус"/>
+  <tag k="operator" v="КП &quot;Електроавтотранс&quot;"/>
+  <tag k="payment:cash" v="yes"/>
+  <tag k="payment:sms" v="yes"/>
+  <tag k="ref" v="49"/>
+  <tag k="route_master" v="bus"/>
+  <tag k="type" v="route_master"/>
+ </relation>
+ <relation id="10357700" visible="true" version="1" changeset="77786802" timestamp="2019-12-01T17:09:46Z" user="Chieftl" uid="3225928">
+  <member type="relation" ref="10357685" role=""/>
+  <member type="relation" ref="10357684" role=""/>
+  <tag k="charge" v="4.00 UAH"/>
+  <tag k="fee" v="yes"/>
+  <tag k="name" v="Автобус №45"/>
+  <tag k="network" v="Івано-Франківський автобус"/>
+  <tag k="operator" v="КП &quot;Електроавтотранс&quot;"/>
+  <tag k="payment:cash" v="yes"/>
+  <tag k="payment:sms" v="yes"/>
+  <tag k="ref" v="45"/>
+  <tag k="route_master" v="bus"/>
+  <tag k="type" v="route_master"/>
+ </relation>
+ <relation id="11102707" visible="true" version="1" changeset="85245049" timestamp="2020-05-15T07:48:52Z" user="GTA KaskaD" uid="5673032">
+  <member type="way" ref="516881613" role="from"/>
+  <member type="node" ref="3522532992" role="via"/>
+  <member type="way" ref="516881614" role="to"/>
+  <tag k="restriction" v="no_left_turn"/>
+  <tag k="type" v="restriction"/>
+ </relation>
+ <relation id="11102708" visible="true" version="1" changeset="85245049" timestamp="2020-05-15T07:48:52Z" user="GTA KaskaD" uid="5673032">
+  <member type="way" ref="516881613" role="from"/>
+  <member type="node" ref="3522532992" role="via"/>
+  <member type="way" ref="345611530" role="to"/>
+  <tag k="restriction" v="no_left_turn"/>
+  <tag k="type" v="restriction"/>
+ </relation>
+</osm>

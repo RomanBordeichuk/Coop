@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="{{ url_for('static', filename= 'css/menu_style.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename= 'css/style.css') }}">
+    <title>Traffic Model</title>
+
+    <style type="text/css" media="screen, print">
+
+     </style>
+
+
+</head>
+<body>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+
+    <script src="{{ url_for('static', filename= 'js/anime.min.js') }}"></script>
+    <script src="{{ url_for('static', filename= 'js/util.js') }}"></script>
+    <script src="{{ url_for('static', filename= 'js/menu.js') }}"></script>
+    <script src="{{ url_for('static', filename= 'js/movement.js') }}"></script>
+    
+    <script src="{{ url_for('static', filename= 'js/js_logic.js') }}"></script>
+
+    
+    <div class="menu_body" style="font-size: 0.8em;">
+        <ul class="menu_sim" style="top: 0%; left: 0%;">    
+            <li class="name_menu">      
+                Menu
+            </li>
+            <li class="button_sim" id="button_start" onclick="onStart()"> Start</li>
+            <li class="button_sim" id="button_pause" style="display: block; visibility: hidden;" onclick="onPause()">
+            </li>
+            <li class="button_sim" id="button_editor" style="display: block; visibility: hidden;" onclick="onEditor()"> </li>
+            <li class="button_sim" onclick="document.location='/'"> Back </li>
+            
+        </ul>
+
+        <ul id="navigator" class="menu_sim" style="bottom: 0%; visibility: hidden;">
+            <li class="name_menu" onclick="showMenu(event)">      
+                Attribute navigator
+            </li>
+        </ul>
+
+        <ul id="price" class="menu_sim" style="bottom: 10%; visibility: hidden;">
+            <li class="name_menu" id="price_info">      
+                Price
+            </li>
+        </ul>
+
+        <div class="editor_menu" style="background-color: rgb(224, 196, 196); margin-left: 700px; margin-top: 250px; visibility: hidden;" id="menu_param">
+            <ul class="edit_menu">
+                <li class="edit_menu_li" id="car_button" onclick="showCars(event)"><a>Car</a></li>
+                <li class="edit_menu_li" id="lishts_button" onclick="showLights(event)"><a>Traffic lights</a></li>
+                <li class="edit_menu_li" id="roads_button" onclick="showRoads(event)"><a>Roads</a></li>
+                <li class="edit_menu_li" id="close_button" onclick="closeButton(event)"><a>X</a></li>
+            </ul>
+            <div style="background-color: white; visibility: hidden;" class="menu_settings" id="car">
+                <ul class="edit_menu">
+                    <li class="edit_menu_li" onclick="closeCars(event)"><a>Close</a></li>
+                </ul>
+                <table class="info" id = "table_cars_info">
+                                <!-- <th>Id</th>
+                                <th>X</th>
+                                <th>Y</th>
+                                <th>Angle</th>
+                                <th>Speed</th>
+                                <th>Start Node</th>
+                                <th>End Node</th> -->
+                </table>
+            </div>
+            <div style="background-color: white; visibility: hidden;" class="menu_settings" id="lights">
+                <ul class="edit_menu">
+                    <li class="edit_menu_li" onclick="closeLights(event)"><a>Close</a></li>
+                </ul>
+                <table class="info" id = "table_lights_info">
+
+                </table>
+            </div>
+            <div style="background-color: white; visibility: hidden;" class="menu_settings" id="roads">
+                <ul class="edit_menu">
+                    <li class="edit_menu_li" onclick="closeRoads(event)"><a>Close</a></li>
+                </ul>
+                <table class="info" id = "table_roads_info">
+
+                </table>
+            </div>
+        </div>
+
+    </div>
+
+    <div id="speed_menu" class="menu_body" style="font-size: 0.8em; visibility: hidden;">
+        <ul class="menu_sim" style="position: relative; float: right; ">
+            <li class="name_menu" style="width: 30vw;">      
+                Speed changer
+            </li>
+
+            <li>
+                <input type="range" id="speed_changer" name="speed_changer" style="width: 25vw; "
+                min="300" max="4000" step ="100" value="2000" onchange="setSpeed(this.value)" >
+            </li>
+            <li>
+                <label id="speed_display" for="speed_changer"> Speed in ms: 2000 </label>
+            </li>
+            
+        </ul>
+    </div>
+
+    <div id="lights_editor" style="position:absolute; z-index: 999; visibility: hidden;">
+        <form method="post" id="lights_editor_form" action="/lights_editor" enctype="multipart/form-data">
+        <ul class="menu_sim"  style="left:30%; padding-top:15px;padding-bottom: 30px;">
+        <li class="name_menu"></li>Traffic light 1</li>
+        <li><div class="form_box" style="position:relative;">
+            <div class="color" style="position:relative;">
+                <div class="blank" style="position:relative;"></div>
+                Periods:
+            </div>
+        </li>
+        <li><div class="form_box" style="position:relative;">
+            <div class="color" style="position:relative;">
+                <div class="red" style="position:relative;"></div>
+                <input  name="red_period"  id="red_period_input" type="text" onkeypress="return event.charCode>=48 && event.charCode<=57">
+            </div>
+        </li>
+        <li>
+            <div class="color" style="position:relative;">
+                <div class="green" style="position:relative;"></div>
+                <input  name="green_period" id="green_period_input" type="text" onkeypress="return event.charCode>=48 && event.charCode<=57" >
+            </div>
+        </li>
+            <input type="hidden" id="light_id" name="light_id">
+            <li class="button_sim" onclick="submit_lights_editor_form()" style="margin:auto">Send</li>
+        </ul>
+    </form>
+    </div>
+    <div id="cars_editor" style="position:absolute; z-index: 999; visibility: hidden;">
+        <ul class="menu_sim"  style="left:30%; padding-top:15px;padding-bottom: 30px;">
+            <li class="name_menu_info">
+
+            </li>
+        </ul>
+    </div>
+    <div id="roads_editor" style="position:absolute; z-index: 999; visibility: hidden;">
+        <ul class="menu_sim"  style="left:30%; padding-top:15px;padding-bottom: 30px;">
+            <li class="name_menu_info_roads">
+                
+            </li>
+        </ul>
+    </div>
+</div>
+    
+    
+    <div id="movable_scene"  style="position: absolute; left: 0px; top: 0px;">
+        <div id="carMenu"></div>
+        <div id='map'></div>
+
+        <div id='cars'></div>
+
+        <div id='lights_movable'></div>
+
+
+
+        
+
+    </div>
+
+
+</body>
+</html>
